@@ -1,1 +1,1 @@
-# calculadora-de-propinas
+# Calculadora-de-Propinas-JS
